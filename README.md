@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open-source projects related to web development, and WordPress.
 - 📫 How to reach me: You can reach me via email at [naveedahmed20november2004@gmail.com](mailto:naveedahmed20november2004@gmail.com) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy experimenting with different cuisines and love to travel to explore new cultures and traditions.
 
 ### Skills:
 - WordPress Development
